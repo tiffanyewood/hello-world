@@ -8,3 +8,4 @@
 1 - 6.18.23 - dictionaries - https://github.com/tiffanyewood/learning/blob/main/Dictionaries%206.18.md
 0.25 - 6.18.23 - tuples - https://github.com/tiffanyewood/learning/blob/main/Tuples%206.18.md
 0.15 - 6.18.23 - sets - https://github.com/tiffanyewood/learning/blob/main/Sets%206.18.md
+0.1 - 6.18.23 - booleans - https://github.com/tiffanyewood/learning/blob/main/Booleans%206.18.md
