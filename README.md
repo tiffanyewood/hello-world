@@ -10,4 +10,4 @@
 0.15 - 6.18.23 - sets - https://github.com/tiffanyewood/learning/blob/main/Sets%206.18.md
 0.1 - 6.18.23 - booleans - https://github.com/tiffanyewood/learning/blob/main/Booleans%206.18.md
 0.5 - 6.18.23 - files - https://github.com/tiffanyewood/learning/blob/main/Files%206.18.md
-0.75 - 6.18.23 - objects and data structures test https://github.com/tiffanyewood/learning/blob/main/09-Objects%20and%20Data%20Structures%20Assessment%20Test.md
+0.5 - 6.18.23 - objects and data structures test https://github.com/tiffanyewood/learning/blob/main/09-Objects%20and%20Data%20Structures%20Assessment%20Test.md
