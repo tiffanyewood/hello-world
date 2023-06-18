@@ -1,6 +1,7 @@
 # hello-world
-6.12.23 - intro videos - .25
-6.14.23 - first repository/notebooks/github intro - .75
-6.15.23 - numbers - .4 - https://github.com/tiffanyewood/learning/blob/main/Strings%206.16.md
-6.16.23 - strings - 1 - https://github.com/tiffanyewood/learning/blob/main/Strings%206.16.md
-6.18.23 - lists/dictionaries/tuples/sets - 
+0.25 - 6.12.23 - intro videos
+0.75 - 6.14.23 - first repository/notebooks/github intro
+0.4 - 6.15.23 - numbers - https://github.com/tiffanyewood/learning/blob/main/Strings%206.16.md
+1 - 6.16.23 - strings - https://github.com/tiffanyewood/learning/blob/main/Strings%206.16.md
+1 - 6.18.23 - lists - 
+1 - 6.18.23 - dictionaries - 
