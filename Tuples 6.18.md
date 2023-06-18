@@ -1,4 +1,4 @@
-Tuples are similar to lists BUT they are immutable - once an object is inside a tuple it cannot be reassigned. Tuples also use () instead of [].
+Tuples are similar to lists BUT they are immutable - once an object is inside a tuple it cannot be reassigned. Tuples also use () instead of []. However they CAN contain lists inside of a tuple. For example: t=(1,2,[1,2])
 
 
 ```python
